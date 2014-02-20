@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-source-sans-semibold-italic",
+  "description": "The Source Sans semibold-italic typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
